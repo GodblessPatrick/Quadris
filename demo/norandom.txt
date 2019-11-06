@@ -1,0 +1,23 @@
+norandom demo/norandom_sequence.txt
+2dr
+3ri
+dr
+3ri
+dr
+3ri
+dr
+random
+3ri
+dr
+3ri
+dr
+8ri
+dr
+8ri
+dr
+8ri
+dr
+8ri
+dr
+8ri
+dr

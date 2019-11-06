@@ -1,0 +1,21 @@
+levelu
+I # level 0
+clock
+10ri
+dr
+levelu
+O # level 0
+dr
+levelu
+O # level 1
+2ri
+dr
+levelu
+O # level 2
+4ri
+dr
+O # level 3
+6ri
+dr
+O # level 4
+8ri
