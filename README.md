@@ -8,8 +8,8 @@ This is a Tetris-like game wrote in c++.It is the final project of CS246 in UW a
 This game employs several design patterns like observer,factory,MVC and etc. 
 ## Usage
 ```liunx
-User$ make
-./quadris
+User$make
+User$./quadris
 ```
 
 ## Command
